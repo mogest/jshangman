@@ -1,0 +1,9 @@
+#guess-display {
+  font-size: 20pt;
+  font-family: monospace;
+  margin: 16px;
+}
+
+#status, #guesses { margin: 12px 0; }
+
+input { font-size: 16pt; width: 1em; }
